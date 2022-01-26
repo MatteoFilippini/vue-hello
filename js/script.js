@@ -9,5 +9,6 @@ const root = new Vue({
     el: '#root',
     data: {
         message: 'Titolo della pagina',
+        aldo: '../img/image.png'
     }
 })
